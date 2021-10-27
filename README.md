@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Bhosale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on [Detection of Illegal Fishing](https://github.com/prasadbhosale98/illegalfishing.git)
 
